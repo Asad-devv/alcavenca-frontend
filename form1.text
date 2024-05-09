@@ -1,0 +1,3629 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>ALCAVENCA</title>
+    <meta name="description" content="Stelar">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <!-- bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all" >
+    <!-- Animated Text CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.3.0/animate.min.css" rel="stylesheet" >
+    <!-- owl-carousel CSS -->
+    <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css" media="all">
+    <!-- font-awesome CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" >
+    <!-- icomoon CSS -->
+    <link rel="stylesheet" href="assets/fonts/themability-font.css" type="text/css" media="all">    
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="style.css" type="text/css" media="all" >
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins:wght@300&family=Roboto:wght@300&display=swap" rel="stylesheet">
+  </head>
+
+  <body class="common-home soccer">
+
+
+
+
+     <!-- cintillo gris superior -->
+    <div class="loader">      
+    </div>
+    <nav id="top" >
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 col-sm-6 top-left">
+            <div class="contact-info">
+              <a href="#">
+                <i class=""></i>
+                <span class="">    </span>
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-6 col-sm-6 top-right ">
+            <div class="dropdown btn-group">
+              <a href="#" data-bs-toggle="dropdown" class="dropdown-toggle btn-link" 
+              aria-expanded="false">
+                
+                </a>
+              <ul class="dropdown-menu currency-dropdown dropdown-menu-right">
+               
+              </ul>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </nav>  
+    <!-- cintillo gris superior -->
+
+
+
+
+
+
+    
+    <!-- botonera -->
+    <header class=" "  >
+      <div class="slotmachine-main-menu hidden-xs hidden-sm" style="margin-right: 20px;">
+        <div class="slotmachine-nav-area fluid">
+          <div class="container">
+            <div class="row header-inner align-items-center sub_sub_menu">
+
+              <div class="col-xl-2 col-lg-6 col-sm-6 header-left">
+                <div id="logo">
+                  <a href="index.html">
+                    <img src="assets/images/LOGOAL.gif" style="margin-left: 20px;" title="INICIO" alt="INICIO" class="img-fluid">
+                  </a>
+                </div>
+              </div>
+
+              <div class="header-center text-lg-center col-xl-7 col-lg-12">
+                <nav class="slotmachine-menu main-search-menu">
+                  <div class="navbar-header d-lg-none" >
+                    <button type="button" id="show-header_menu" data-toggle="collapse" class="navbar-toggle" >
+                      <i class="fa-solid fa-bars" ></i>
+                    </button>
+                  </div>
+                  <div class="main-menu-outer">
+                    <div class="d-lg-none menu-title" >
+                      Menu
+                      <i class="fa-solid fa-xmark"></i>
+                    </div>
+                    
+                    <div class="container">
+                      <ul class="main-menu nav-scroll mb-0 header_menu" data-megamenuid="46" data-transition="slide"
+                        data-animationtime="500">
+                       
+                       
+                        <li class="header-menu-item">
+                          <a href="index.html">
+                            <span><strong> <h4> INICIO </h4> </strong></span>
+                          </a>
+                        </li>
+                        
+                        <li class="header-menu-item">
+                          <a href="tablas.html">
+                            <span><strong><h4> TABLAS </h4></strong></span>
+                          </a>
+                        </li>
+
+                      
+                        <li class="header-menu-item">
+                          <a href="Form1.html">
+                            <span><strong><h4> Zona1 </h4></strong></span>
+                          </a>
+                        </li>
+
+                        <li class="header-menu-item">
+                          <a href="Form3.html">
+                            <span><strong><h4> Zona3 </h4></strong></span>
+                          </a>
+                        </li>
+                        
+                        
+                        
+  
+                        
+
+
+                      </ul>
+                    </div>
+                  </div>
+                </nav>
+              </div>
+              <!-- botonera -->
+
+
+
+
+              
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+
+    
+
+
+
+
+
+
+
+
+
+      
+
+<br>
+
+
+
+
+
+
+<div class="category-featured mt-50  wow fadeInUp">
+  <div class="box-content">
+    <div class="container">
+      <div class="page-title toggled">
+        <span class="page-title-left"></span>
+        <h3>
+          Zona 1
+        </h3>
+        <span class="page-title-right"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+ <!-- start of the form   start of the form    start of the form   start of the form -->
+
+
+
+
+
+
+<form method="post">
+
+
+
+
+
+  <!-- datos del usuario -->
+  <main>
+    <div class="common-home">
+      <div id="content" class="col">
+        <div class="container">
+                <div class="box-content">
+                    <div class="row">
+                        
+                    </div>
+                    <div class="row contact-section2">
+                     
+
+                     <center>
+                     <div class="col-sm-6">
+                      
+                       <div class="contact-inner-right"
+                       style="background-image: url('assets/images/slider/favicon.png'); 
+                       background-repeat: no-repeat;  background-size: cover;"
+                       >
+                         
+
+                         
+                           <div class="grp-1">
+
+                             <div class="grp-in-2">
+                               <span> Nombre</span>
+                               <input type="text" name="nombre" value="" placeholder="Nombre"
+                                 class="form-control input-lg ui-autocomplete-input">
+                             </div>
+
+
+
+                             <div class="grp-in-2">
+                               <span> Pais</span>
+                               <input type="text" name="pais" value="" placeholder="Country"
+                                 class="form-control input-lg ui-autocomplete-input" required>
+                             </div>
+
+
+                           </div>
+                          
+
+                           <div class="grp-1">
+
+                             
+                            <div class="grp-in-2">
+                              <span> Ciudad</span>
+                              <input type="text" name="ciudad" value="" placeholder="City"
+                                class="form-control input-lg ui-autocomplete-input" required>
+                            </div>
+
+                             <div class="grp-in-2">
+                               <span>Correo Electronico</span>
+                               <input type="email" name="email" value="" placeholder="Email"
+                                 class="form-control input-lg ui-autocomplete-input" required>
+                             </div>
+
+                           </div>
+
+
+                           <div class="grp-3">
+                             <span>Billetera Criptografica (wallet)</span>
+                             <input type="text" name="wallet" value="" placeholder="Wallet"
+                               class="form-control input-lg ui-autocomplete-input" required>
+                           </div>
+                           
+                    
+                     
+                      
+                      
+                          
+                          </div></center>
+
+                          
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- datos del usuario -->
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+<!--  Administrativo de ventas   -->
+
+<br>
+
+<center>
+  <h1> Administrativo de ventas </h1>
+  </center>
+
+<p class="border-dashed"></p>
+
+<!--    content   -->
+
+<section  class="grupoa">
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">Logros <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato01"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato02" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6">Concretados <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">fase 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato03"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -   </div>
+
+  <div class="colum5">
+     <select                        name="dato04" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> Concretados <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+    
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">fase 2 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato05"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato06" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6">Concretados <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> por llamar <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato07"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato08" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> 1er llamado <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> por llamar <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato09"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -   </div>
+
+  <div class="colum5">
+     <select                        name="dato10" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6">2do llamado <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">total <br> 
+     </div>
+
+    <div class="colum3">
+      <select                      name="dato11"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -   </div>
+
+  <div class="colum5">
+     <select                        name="dato12" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> Pendientes <br> 
+     </div>
+
+    <div class="colum7"></div>
+
+
+
+    
+
+
+</section>
+
+<!--    content  -->
+<p class="border-dashed"></p>
+
+
+
+
+<!-- Administrativo de ventas -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+
+<!--  Recursos Humanos  -->
+
+<center>
+<h1>Recursos Humanos</h1>
+</center>
+
+
+<br>
+
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> salidas <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato13"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -   </div>
+
+  <div class="colum5">
+     <select                        name="dato14" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6">Ingresos <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--   content  -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> zona 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato15"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato16" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> zona 2 <br> 
+     </div>
+
+    <div class="colum7"></div>
+
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">  total zona 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato17"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato18" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6">total zona 2  <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">contratacion 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato19"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -   </div>
+
+  <div class="colum5">
+     <select                        name="dato20" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6">contratacion 2 <br> 
+     </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content  -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> conflictos 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato21"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato22" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> conflictos 2 <br> 
+     </div>
+
+    <div class="colum7"></div>
+
+
+
+
+
+</section>
+<!--    content  -->
+<p class="border-dashed"></p>
+<!--   content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">capacitacion 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato23"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato24" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> capacitacion 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- cierre de div de fondo imagen  -->
+</div>
+<!-- cierre de div de fondo imagen  -->
+
+
+
+
+
+<br><br>
+<!--    content   -->
+
+<center>
+  <h1>Comercializadoras</h1>
+  </center>
+
+<br>
+
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> mayoristas 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato25"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato26" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> mayoristas 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> minoristas 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato27"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -   </div>
+
+  <div class="colum5">
+     <select                        name="dato28" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> minoristas 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+
+</section>
+<!--    content  -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> comisionistas 1  <br> 
+     </div>
+
+    <div class="colum3">
+      <select                      name="dato29"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4">  -   </div>
+
+  <div class="colum5">
+     <select                        name="dato30" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> comicionistas 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> dist. zona 1 <br> 
+     </div>
+
+    <div class="colum3">
+      <select                      name="dato31"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato32" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> dist. zona 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> enlaces 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato33"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato34" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> enlaces 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6"> productos 1er nivel <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato35"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4">  -  </div>
+
+  <div class="colum5">
+     <select                        name="dato36" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> productos 2do nivel <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content  -->
+<p class="border-dashed"></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- cierre de div de fondo imagen  -->
+</div>
+<!-- cierre de div de fondo imagen  -->
+
+
+
+
+
+
+
+<br><br>
+
+
+
+
+<!--    content    -->
+
+
+<center>
+<h1>Logística y Operaciones</h1>
+</center>
+
+<br>
+
+<p class="border-dashed"></p>
+<!--    content  -->
+
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">Pronóstico de ventas 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato37"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -   </div>
+
+  <div class="colum5">
+     <select                        name="dato38" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> Pronóstico de ventas 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">Adquisición de productos 1<br> 
+     </div>
+
+    <div class="colum3">
+      <select                      name="dato39"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4">  -   </div>
+
+  <div class="colum5">
+     <select                        name="dato40" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> Adquisición de productos 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">Inventario 1 <br> 
+     </div>
+
+    <div class="colum3">
+      <select                      name="dato41"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato42" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> Inventario 2 <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">Almacenamiento 1 <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato43"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato44" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> Almacenamiento 2 <br> 
+     </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content   -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">Conservación y preservación de los productos 1  <br> 
+     </div>
+
+    <div class="colum3">
+      <select                      name="dato45"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -   </div>
+
+  <div class="colum5">
+     <select                        name="dato46" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6"> Conservación y preservación de los productos 2<br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+
+</section>
+<!--    content   -->
+<p class="border-dashed"></p>
+<!--    content  -->
+<section class="grupoa">
+
+
+
+
+<div class="colum1"></div>
+    <div class="colum6">Picking <br> 
+      </div>
+
+    <div class="colum3">
+      <select                      name="dato47"  class="selectgruposs" > 
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+      
+  </select></div>
+
+    <div class="colum4"> -  </div>
+
+  <div class="colum5">
+     <select                        name="dato48" class="selectgruposs">
+     <option value="0">0</option>
+     <option value="1">1</option>
+     <option value="2">2</option>
+     <option value="3">3</option>
+     <option value="4">4</option>
+     <option value="5">5</option>
+     <option value="6">6</option>
+     <option value="7">7</option>
+     <option value="8">8</option>
+     <option value="9">9</option>
+     <option value="10">10</option>
+     <option value="11">11</option>
+     <option value="12">12</option>
+</select></div>
+
+    <div class="colum6">Picking <br> 
+      </div>
+
+    <div class="colum7"></div>
+
+
+
+
+</section>
+<!--    content  -->
+<p class="border-dashed"></p>
+
+
+
+
+
+<!-- cierre de div de fondo imagen  -->
+</div>
+<!-- cierre de div de fondo imagen  -->
+
+
+
+
+
+
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center>
+organización
+</center>
+<br>
+
+<!--    content   -->
+<section class="containereliminatorias">
+
+
+<div class="fondocol1" style="width: 350px; height: 1296px;"> 
+  
+
+
+
+<div class="img1"></div>
+
+
+<!--    content   -->
+<div style="margin-right: 0px;"  class="fecha1" 
+> organizacion n.1 </div>
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"></div>
+<div class="te1"> Metas a alcanzar </div>
+<div class="sele">
+<select  name="dato49"  class="selectgrupo">
+  <option value="0">0</option>  
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+</select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2" style="text-align: right;">  </div>
+<div class="selecequip1"> 
+<select  name="dato50" class="selectorequipo1">
+<option value="Seleccionar">Seleccionar</option>
+<option value="person1">person1</option>
+<option value="person2">person2</option>
+<option value="person3">person3</option>
+<option value="person4">person4</option>
+
+</select></div>
+<div class="sele">
+<select  name="dato51" class="selectgrupo">
+  <option value="0">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+</select>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"style="text-align: right;"> </div>
+<div class="selecequip1"> 
+  <select name="dato52"  class="selectorequipo1">
+  <option value="Seleccionar">Seleccionar</option>
+  <option value="person5">person5</option>
+  <option value="person6">person6</option>
+  <option value="person7">person7</option>
+  <option value="person8">person8</option>
+  
+</select></div>
+<div class="sele">
+  <select  name="dato53"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">imposiciones</div>
+  <div class="sele">
+  <select  name="dato54" class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+<!--    content   -->
+
+
+
+
+
+<br><br>
+
+
+
+
+<!--    content   -->
+<div  style="margin-left: 0px;"   class="fecha1" 
+>organizacion n.2</div>
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"></div>
+<div class="te1">Metas a alcanzar</div>
+<div class="sele">
+<select  name="dato55"  class="selectgrupo">
+  <option value="0">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+</select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"style="text-align: right;">  </div>
+<div class="selecequip1"> 
+<select  name="dato56"  class="selectorequipo1">
+  <option value="Seleccionar">Seleccionar</option>
+  <option value="person5">person5</option>
+  <option value="person6">person6</option>
+  <option value="person7">person7</option>
+  <option value="person8">person8</option>
+
+</select></div>
+<div class="sele">
+<select   name="dato57"  class="selectgrupo">
+  <option value="0">0</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+</select>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"style="text-align: right;">  </div>
+<div class="selecequip1"> 
+  <select  name="dato58"  class="selectorequipo1">
+    <option value="Seleccionar">Seleccionar</option>
+    <option value="person1">person1</option>
+    <option value="person2">person2</option>
+    <option value="person3">person3</option>
+    <option value="person4">person4</option>
+  
+</select></div>
+<div class="sele">
+  <select  name="dato59"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">imposiciones</div>
+  <div class="sele">
+  <select  name="dato60"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+<!--    content   -->
+
+
+
+
+<br><br>
+
+
+
+
+<!--    content   -->
+<div  style="margin-left: 0px;"   class="fecha1" 
+>organizacion n.3</div>
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">Metas a alcanzar</div>
+  <div class="sele">
+  <select  name="dato61"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"style="text-align: right;">  </div>
+<div class="selecequip1"> 
+  <select  name="dato62"  class="selectorequipo1">
+    <option value="Seleccionar">Seleccionar</option>
+    <option value="person9">person9</option>
+    <option value="person10">person10</option>
+    <option value="person11">person11</option>
+    <option value="person12">person12</option>
+  
+</select></div>
+<div class="sele">
+  <select  name="dato63"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"style="text-align: right;">  </div>
+  <div class="selecequip1"> 
+    <select  name="dato64"  class="selectorequipo1">
+      <option value="Seleccionar">Seleccionar</option>
+      <option value="person13">person13</option>
+      <option value="person14">person14</option>
+      <option value="person15">person15</option>
+      <option value="person16">person16</option>
+    
+  </select></div>
+  <div class="sele">
+    <select   name="dato65"  class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  
+
+
+
+
+
+  <div style="margin-left: -25px;"  class="tiros1">
+    <div class="img2"></div>
+    <div class="te1">imposiciones</div>
+    <div class="sele">
+    <select  name="dato66"  class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  <!--   content   -->
+
+
+
+
+
+<br><br>
+
+
+
+<!--    content   -->
+<div  style="margin-right: 0px;"   class="fecha1" 
+>organizacion n.4</div>
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">Metas a alcanzar</div>
+  <div class="sele">
+  <select   name="dato67"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"style="text-align: right;">  </div>
+<div class="selecequip1"> 
+  <select   name="dato68"  class="selectorequipo1">
+    <option value="Seleccionar">Seleccionar</option>
+    <option value="person13">person13</option>
+    <option value="person14">person14</option>
+    <option value="person15">person15</option>
+    <option value="person16">person16</option>
+  
+</select></div>
+<div class="sele">
+  <select   name="dato69"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"style="text-align: right;">  </div>
+  <div class="selecequip1"> 
+    <select    name="dato70"  class="selectorequipo1">
+      <option value="Seleccionar">Seleccionar</option>
+      <option value="person9"> person9</option>
+      <option value="person10">person10</option>
+      <option value="person11">person11</option>
+      <option value="person12">person12</option>
+    
+  </select></div>
+  <div class="sele">
+    <select   name="dato71"  class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  
+
+
+
+
+
+  <div style="margin-left: -25px;"  class="tiros1">
+    <div class="img2"></div>
+    <div class="te1">imposiciones</div>
+    <div class="sele">
+    <select   name="dato72"  class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  <!--    content   -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<!--  Termina columna 1  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="fondocol2" style="width: 100%; height: 1296px;"> 
+
+
+
+
+
+
+<div class="img250"></div>
+
+
+<center>
+  Control de Gestión
+  </center>
+
+<!--    content   -->
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">Análisis de datos</div>
+  <div class="sele">
+  <select  name="dato73"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"> </div>
+<div class="selecequip1"> 
+  <select   name="dato74"  class="selectorequipo1">
+  <option value="Seleccionar">Seleccionar</option>
+  <option value="person1">person1</option>
+  <option value="person2">person2</option>
+  <option value="person3">person3</option>
+  <option value="person4">person4</option>
+  <option value="person5">person5</option>
+  <option value="person6">person6</option>
+  <option value="person7">person7</option>
+  <option value="person8">person8</option>
+  
+</select></div>
+<div class="sele">
+  <select   name="dato75"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"> </div>
+  <div class="selecequip1"> 
+    <select   name="dato76"  class="selectorequipo1">
+      <option value="Seleccionar">Seleccionar</option>
+     
+  <option value="person1">person1</option>
+  <option value="person2">person2</option>
+  <option value="person3">person3</option>
+  <option value="person4">person4</option>
+  <option value="person5">person5</option>
+  <option value="person6">person6</option>
+  <option value="person7">person7</option>
+  <option value="person8">person8</option>
+      
+    
+  </select></div>
+  <div class="sele">
+    <select   name="dato77"  class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  
+
+
+
+
+
+  <div style="margin-left: -25px;"  class="tiros1">
+    <div class="img2"></div>
+    <div class="te1">Asistencia a la dirección</div>
+    <div class="sele">
+    <select   name="dato78"  class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  <!--    content   -->
+
+
+
+
+
+
+
+
+<br> <br>
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">estructura contable</div>
+  <div class="sele">
+  <select   name="dato79"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2">  </div>
+<div class="selecequip1"> 
+  <select   name="dato80"  class="selectorequipo1">
+    <option value="Seleccionar">Seleccionar</option>
+    <option value="person9">person9</option>
+    <option value="person10">person10</option>
+    <option value="person11">person11</option>
+    <option value="person12">person12</option>
+    <option value="person13">person13</option>
+    <option value="person14">person14</option>
+    <option value="person15">person15</option>
+    <option value="person16">person16</option>
+  
+</select></div>
+<div class="sele">
+  <select   name="dato81"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2">  </div>
+  <div class="selecequip1"> 
+    <select  name="dato82"  class="selectorequipo1">
+      <option value="Seleccionar">Seleccionar</option>
+      <option value="person9">person9</option>
+      <option value="person10">person10</option>
+      <option value="person11">person11</option>
+      <option value="person12">person12</option>
+      <option value="person13">person13</option>
+      <option value="person14">person14</option>
+      <option value="person15">person15</option>
+      <option value="person16">person16</option>
+    
+  </select></div>
+  <div class="sele">
+    <select   name="dato83"  class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  
+
+
+
+
+
+  <div style="margin-left: -25px;"  class="tiros1">
+    <div class="img2"></div>
+    <div class="te1">Coordinación y optimización</div>
+    <div class="sele">
+    <select   name="dato84"  class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  <!--    content   -->
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="fondocol3" style="width: 100%; height: 1296px;"> 
+
+
+<div class="imgcopa"></div>
+
+
+
+
+<!--    content    -->
+<center>
+  Servicio al Cliente
+  </center>
+
+
+
+<div  style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">seguimientos</div>
+  <div class="sele">
+  <select    name="dato85"      class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1"> transacciones</div>
+  <div class="sele">
+  <select   name="dato86"   class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2"> </div>
+<div class="selecequip1"> 
+  <select   name="dato87"   class="selectorequipo1">
+    <option value="Seleccionar">Seleccionar</option>
+    <option value="person1">person1</option>
+    <option value="person2">person2</option>
+    <option value="person3">person3</option>
+    <option value="person4">person4</option>
+    <option value="person5">person5</option>
+    <option value="person6">person6</option>
+    <option value="person7">person7</option>
+    <option value="person8">person8</option>
+  
+</select></div>
+<div class="sele">
+  <select   name="dato88"   class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"> </div>
+  <div class="selecequip1"> 
+    <select  name="dato89"   class="selectorequipo1">
+      <option value="Seleccionar">Seleccionar</option>
+      <option value="person9">person9</option>
+      <option value="person10">person10</option>
+      <option value="person11">person11</option>
+      <option value="person12">person12</option>
+      <option value="person13">person13</option>
+      <option value="person14">person14</option>
+      <option value="person15">person15</option>
+      <option value="person16">person16</option>
+    
+  </select></div>
+  <div class="sele">
+    <select   name="dato90"   class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  
+
+
+
+
+
+  <div style="margin-left: -25px;"  class="tiros1">
+    <div class="img2"></div>
+    <div class="te1">problemas resueltos</div>
+    <div class="sele">
+    <select  name="dato91"   class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+
+
+  <div style="margin-left: -25px;"  class="tiros1">
+    <div class="img2"></div>
+    <div class="te1">traslados sin resolver</div>
+    <div class="sele">
+    <select   name="dato92"   class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  <!--    content  -->
+
+
+
+
+
+
+
+
+<div class="img3er"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--    content     -->
+<center>
+  Dirección General
+  </center>
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">estrategias exitosas</div>
+  <div class="sele">
+  <select    name="dato93"  class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2"></div>
+  <div class="te1">Reuniones con zonas</div>
+  <div class="sele">
+  <select     name="dato94" class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+<div class="img2">  </div>
+<div class="selecequip1"> 
+  <select     name="dato95"    class="selectorequipo1">
+    <option value="Seleccionar">Seleccionar</option>
+    <option value="person1">person1</option>
+    <option value="person2">person2</option>
+    <option value="person3">person3</option>
+    <option value="person4">person4</option>
+    <option value="person5">person5</option>
+    <option value="person6">person6</option>
+    <option value="person7">person7</option>
+    <option value="person8">person8</option>
+  
+</select></div>
+<div class="sele">
+  <select     name="dato96"   class="selectgrupo">
+    <option value="0">0</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+  </select>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div style="margin-left: -25px;"  class="tiros1">
+  <div class="img2">  </div>
+  <div class="selecequip1"> 
+    <select     name="dato97"     class="selectorequipo1">
+      <option value="Seleccionar">Seleccionar</option>
+      <option value="jimmy escobar">person9</option>
+      <option value="alexander uribe">person10</option>
+      <option value="isabel palacios">person11</option>
+      <option value="jhon bonilla">person12</option>
+      <option value="amanda bravo">person13</option>
+      <option value="astrid correa">person14</option>
+      <option value="jairo parra">person15</option>
+      <option value="mireya costa">person16</option>
+    
+  </select></div>
+  <div class="sele">
+    <select     name="dato98"    class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+  
+
+
+
+
+
+  <div style="margin-left: -25px;"  class="tiros1">
+    <div class="img2"></div>
+    <div class="te1">politicas nuevas </div>
+    <div class="sele">
+    <select      name="dato99"      class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+
+
+
+  <div style="margin-left: -25px;"  class="tiros1">
+    <div class="img2"></div>
+    <div class="te1">delegaciones designadas</div>
+    <div class="sele">
+    <select      name="dato00"      class="selectgrupo">
+      <option value="0">0</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+  </div>
+  </div>
+
+  <!--  content  -->
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+<!--  contenedor de las columnas  -->
+
+<br>
+
+
+<center>
+<div class="grp-1">
+<div class="grp-in-2">
+ <button id="Enviar" type="submit" class="btn-quin"> 
+  <h2> Enviar </h2> </button>
+</div>
+</div>
+</center>
+
+
+</form>
+
+
+<!--  end of form    end of form      end of form    end of form    end of form   -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- .PAGE CONTENT -->
+<p class="border-dashed"></p>
+<!-- FOOTER AREA -->
+<footer>
+
+<p class="copyright"> <a href="inicio.html">ALCAVENCA </a><br> - 2024.</p>
+</footer>
+    <!-- .FOOTER AREA -->
+
+<!-- Main jquery js -->
+<script src="assets/js/vendor/jquery-3.2.1.min.js"></script>
+<!-- bootstrap js -->
+<script src="assets/js/bootstrap.min.js"></script>
+<!-- owl-carousel js -->
+<script src="assets/js/owl.carousel.min.js"></script>
+<!-- wow js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<!-- Main js -->
+<script src="assets/js/theme.js"></script>
+<script src="./form1.js"></script>
+
+
+
+
+
+  </body>
+</html>
