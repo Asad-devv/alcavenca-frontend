@@ -1,14 +1,10 @@
 
 
 // Check if MetaMask is installed
-if (window.ethereum) {
-    window.web3 = new Web3(window.ethereum);
-    window.ethereum.enable(); // Request user authorization
-} else {
-    console.log('MetaMask is not installed');
-}
 
-const contractAddress = '0x0EbBA9D5F7a1091dca1C82CC50B906e74491742c'; // Provide your contract address here
+    window.web3 = new Web3(window.ethereum);
+
+const contractAddress = '0x9244857A1D5AC69631101627c6617BB044B49bAC'; // Provide your contract address here
 const contractABI =[
 	{
 		"inputs": [],
@@ -128,6 +124,7 @@ const web3Modal = new Web3Modal({
   });
 
   export async function connectWallet() {
+	window.ethereum.enable(); 
     const sepoliaNetworkId = "11155111"; // Replace '11155111' with the actual network ID of Sepolia testnet
     const sepoliaChainId = "0xaa36a7"; // Replace '0xaa36a7' with the actual chain ID of Sepolia testnet
 
@@ -158,7 +155,6 @@ const web3Modal = new Web3Modal({
 }
 
 
-const loader = document.querySelector('.loaderforpayment');
 
 
 const contract = new window.web3.eth.Contract(contractABI, contractAddress);
@@ -167,7 +163,6 @@ console.log(contract);
 // Function to make payment
 export async function makePayment(amount) {
     try {
-        loader.style.display = 'block';
 
         // Get the connected wallet provider
         const provider = await web3Modal.connect();
@@ -181,11 +176,6 @@ export async function makePayment(amount) {
 
         const amountToSend = web3.utils.toWei(amount.toString(), 'ether');
 
-
-
-console.log(sender);
-        // Calculate the amount to send in wei
-console.log(amountToSend);
         const transactionObject = {
             from: sender,
             to: contract.options.address, // Use your contract address here
@@ -193,11 +183,10 @@ console.log(amountToSend);
         };
 console.log(transactionObject);
         // Send the transaction
-        const transaction = await web3.eth.sendTransaction(transactionObject);
-        loader.style.display = 'none';
+        await web3.eth.sendTransaction(transactionObject);
+        return true;
     } catch (error) {
         console.error('Error:', error);
-        loader.style.display = 'none';
-
+		  return false;
     }
 }

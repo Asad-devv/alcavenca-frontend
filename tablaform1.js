@@ -1,8 +1,10 @@
+
 window.addEventListener('DOMContentLoaded', async () => {
-    const endpoint = 'http://217.196.50.153:3002/tables?formType=1';
 
     try {
-      const response = await fetch(endpoint);
+      console.log("Dat");
+      res=await getData();
+      const response = await fetch("http://217.196.50.153:3002/tables?formType=1");
       console.log(response);
       const data = await response.json();
       console.log(data);
@@ -16,14 +18,27 @@ window.addEventListener('DOMContentLoaded', async () => {
     const table = document.querySelector('.table2');
     data?.forEach((row, index) => {
       const newRow = document.createElement('tr');
-      newRow.innerHTML = `
-        <td>${index + 1}</td>
-        <td>${index+1}st</td>
-        <td>${row.name}</td>
-        <td>${row.country}</td>
-        <td>${row.wallet}</td>
-        <td class="ticket"><button class="sh-btn btn-default">Descargar</button></td>
-      `;
+ // Check if position and points are not null
+if (row.position !== null && row.points !== null) {
+  newRow.innerHTML = `
+      <td>${row.position}</td>
+      <td>${row.points}st</td>
+      <td>${row.name}</td>
+      <td>${row.country}</td>
+      <td>${row.wallet}</td>
+      <td class="ticket"><button class="sh-btn btn-default">Descargar</button></td>
+  `;
+} else {
+  // Fallback to the index logic
+  newRow.innerHTML = `
+      <td>${index + 1}</td>
+      <td>${index + 1}st</td>
+      <td>${row.name}</td>
+      <td>${row.country}</td>
+      <td>${row.wallet}</td>
+      <td class="ticket"><button class="sh-btn btn-default">Descargar</button></td>
+  `;
+}
       table.appendChild(newRow);
     });
   }
