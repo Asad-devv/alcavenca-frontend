@@ -3,7 +3,6 @@ window.addEventListener('DOMContentLoaded', async () => {
 
     try {
       console.log("Dat");
-      res=await getData();
       const response = await fetch("http://217.196.50.153:3002/tables?formType=1");
       console.log(response);
       const data = await response.json();
