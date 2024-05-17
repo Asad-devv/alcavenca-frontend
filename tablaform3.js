@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', async () => {
   const endpoint = 'https://api.quinielacrypto.com/tables?formType=3';
-  console.log(window.http);
-console.log(window.axios,window.fetch, window )
+
+
   try {
     const response = await axios.get(endpoint, {
       httpsAgent: false // Specify to use only HTTP

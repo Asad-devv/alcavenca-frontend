@@ -149,9 +149,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
       loader.style.display = 'block';
-      const paymentSuccessful =true;
+      const paymentSuccessful = await makePayment(0.01);
 
-      // const paymentSuccessful = true;
 
 if(paymentSuccessful) { 
       const response = await fetch("https://api.quinielacrypto.com/saveData", {
