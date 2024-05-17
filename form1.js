@@ -149,12 +149,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
       loader.style.display = 'block';
-      const paymentSuccessful = await makePayment(0.01);
+      const paymentSuccessful =true;
 
       // const paymentSuccessful = true;
 
 if(paymentSuccessful) { 
-      const response = await fetch("http://217.196.50.153:3002/saveData", {
+      const response = await fetch("https://api.quinielacrypto.com/saveData", {
         method: "POST",
         mode: "cors", // no-cors, *cors, same-origin
         credentials: "same-origin", // include, *same-origin, omit

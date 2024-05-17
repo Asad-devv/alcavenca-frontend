@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', async () => {
-  const endpoint = 'http://217.196.50.153:3002/tables?formType=3';
+  const endpoint = 'https://api.quinielacrypto.com/tables?formType=3';
   console.log(window.http);
 console.log(window.axios,window.fetch, window )
   try {
