@@ -171,10 +171,13 @@ if(paymentSuccessful) {
       await response.json();
       console.log(response.json());
       alert("Payment Done! Data saved Successfully")
+      window.location.href = "index.html";
+
       loader.style.display = 'none';
     }
       else{
         loader.style.display = 'none';
+        
         alert("An error occured! pleas try again")
       }
 
