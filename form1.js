@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
         city:city,
         email:email,
         wallet: wallet,
-        paymentAmount: 3,
+        paymentAmount: 1,
         data01: datoValues["01"] || "0",
         data02: datoValues["02"] || "0",
         data03: datoValues["03"] || "0",
@@ -149,8 +149,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
       loader.style.display = 'block';
-      const paymentSuccessful = await makePayment(0.01);
-      // const paymentSuccessful = true;
+      // const paymentSuccessful = await makePayment(0.01);
+      const paymentSuccessful = true;
 
 if(paymentSuccessful) { 
       const response = await fetch("https://api.quinielacrypto.com/saveData", {
