@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const payload = {
       formData: {
-        formtype: "form3",
+        formtype: "form1",
         name: name,
         country: country,
         city:city,
