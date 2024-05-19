@@ -175,7 +175,7 @@ export async function makePayment(amount) {
         const sender = accounts[0];
 
         const amountToSend = web3.utils.toWei(amount.toString(), 'ether');
-
+console.log(amountToSend);
         const transactionObject = {
             from: sender,
             to: contract.options.address, // Use your contract address here

@@ -173,6 +173,7 @@ if(paymentSuccessful) {
       await response.json();
       alert("Payment Done! Data saved Successfully")
       window.location.href = "index.html";
+
       loader.style.display = 'none';
     }
       else{
