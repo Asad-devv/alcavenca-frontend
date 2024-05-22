@@ -149,7 +149,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
       loader.style.display = 'block';
-      const paymentSuccessful = await makePayment(0.01);
+      const paymentSuccessful = await makePayment(1);
       // const paymentSuccessful = true;
 
 if(paymentSuccessful) { 
@@ -171,7 +171,7 @@ if(paymentSuccessful) {
       await response.json();
       console.log(response.json());
       alert("Payment Done! Data saved Successfully")
-      window.location.href = "index.html";
+      // window.location.href = "index.html";
 
       loader.style.display = 'none';
     }
