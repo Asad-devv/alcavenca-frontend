@@ -4,7 +4,7 @@
     window.web3 = new Web3(window.ethereum);
 
 	const usdtAddress = '0x55d398326f99059fF775485246999027B3197955'; // Provide your contract address here
-const contractAddress = '0x178b71ae884c4ade18d097e95b88836bce9b63ac'; // Provide your contract address here
+const contractAddress = '0x170bdf851ef5859933a34f92f31dbf0fe281cb70'; // Provide your contract address here
 const contractABI =[
 	{
 		"inputs": [],
@@ -813,6 +813,28 @@ console.log(contract);
 // Function to make payment
 export async function makePayment(amount) {
     try {
+        if (!window.ethereum || !window.ethereum.isConnected()) {
+            throw new Error("MetaMask is not installed or not connected.");
+        }
+
+        // Check if MetaMask is connected to the correct network
+        const networkId = await window.ethereum.request({
+            method: "net_version",
+        });
+
+        const bscNetworkId = "56"; // Binance Smart Chain Mainnet network ID
+        const bscChainId = "0x38"; // Binance Smart Chain Mainnet chain ID
+
+        if (networkId !== bscNetworkId) {
+            // Prompt the user to switch to Binance Smart Chain
+            await window.ethereum.request({
+                method: "wallet_switchEthereumChain",
+                params: [{ chainId: bscChainId }],
+            });
+            console.log("Switched to Binance Smart Chain.");
+        } else {
+            console.log("Already connected to Binance Smart Chain.");
+        }
         const provider = await web3Modal.connect();
         const web3 = new window.Web3(provider);
         const accounts = await web3.eth.getAccounts();

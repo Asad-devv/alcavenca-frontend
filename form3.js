@@ -1,12 +1,11 @@
 
-import { connectWallet,makePayment } from "./makePayment.js";
+import { makePayment } from "./makePayment.js";
 
 document.addEventListener("DOMContentLoaded", function () {
 
 
     
   const loader = document.querySelector('.loaderforpayment');
-    document.getElementById('connectWalletButton').addEventListener('click', connectWallet);
 
   const button = document.getElementById("Enviar");
   const datoValues = {};
