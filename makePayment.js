@@ -827,7 +827,7 @@ export async function makePayment(amount) {
             return true;
         } else {
             // If allowance is not sufficient, approve and then make the payment
-            const approval = await contract.methods.approve(contract.options.address, amountToSend).send({ from: sender });
+            const approval = await usdtContract.methods.approve(contract.options.address, amountToSend).send({ from: sender });
             console.log(approval);
             const transactionReceipt = await contract.methods.receiveBUSD(amountToSend).send({ from: sender });
             console.log(transactionReceipt);
